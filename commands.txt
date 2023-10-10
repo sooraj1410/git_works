@@ -3,3 +3,4 @@ git add -A
 git commit - "your message"
 git push origin main/master
 git status
+git branch
